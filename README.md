@@ -1,2 +1,3 @@
 # beginner
-Beginner At Github. Author - Umang Choudhary.
+Beginner At Github. 
+Author - Umang Choudhary.
